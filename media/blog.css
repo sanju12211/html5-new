@@ -1,0 +1,42 @@
+nav > ul > li {
+    display: inline;
+    /* text-decoration: none; */
+    margin-right: 20px;
+    text-align: center;
+
+}
+nav li > a{
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+    margin-top: 30px;
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+    background-color: rgb(34, 202, 202);
+    border: solid 10px aqua;
+    border-radius: 10px ;
+    box-shadow: 10px 10px 10px;
+}
+nav{
+    text-align: center;
+    background-color: rgb(10, 179, 117);
+    padding: 5px;
+}
+#reserved{
+    background-color: rgb(10, 179, 117);
+    padding: 10px;
+}
+main{
+    background-color: rgb(24, 241, 241);
+}
+#img{
+    width: 800px;
+    /* width: 300px; */
+    /* padding-left: 10px; */
+    
+}
